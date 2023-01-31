@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nihar11789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- snake eating my contribution :- -->
+![snake gif](https://github.com/Nihar11789/Nihar11789/blob/output/github-contribution-grid-snake.gif)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -41,5 +44,4 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- snake eating my contribution :- -->
-![snake gif](https://github.com/Nihar11789/Nihar11789/blob/output/github-contribution-grid-snake.gif)
+
