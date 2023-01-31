@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##snake eating my contribution :-
+<!-- snake eating my contribution :- -->
 ![snake gif](https://github.com/Nihar11789/Nihar11789/blob/output/github-contribution-grid-snake.gif)
