@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nihar-ranjan-patra-48a50a257/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihar-ranjan-patra-48a50a257/) 
 [![Portfolio](https://img.shields.io/badge/Pf-portfolio-orange)](https://nihar11789.github.io/)
 
 # 💻 Tech Stack:
